@@ -8,4 +8,30 @@ h1 {
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     color: white;
     text-align: center;
+    position: relative;
+}
+
+h2 {
+    padding: 20px;
+    margin-top: 20px;
+    width: 500px;
+    height: 300px;
+    background-color: lightcoral;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    color: rgb(153, 233, 153);
+    font-size: 20px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    position: absolute;
+}
+
+footer {
+    padding: 20px;
+    width: 100%;
+    background-color: rgb(153, 233, 153);
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 20px;
 }
